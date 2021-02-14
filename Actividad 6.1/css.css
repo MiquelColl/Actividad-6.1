@@ -1,0 +1,61 @@
+.navbar{
+    background: url("img/coser-200px.jpg") no-repeat center;
+    background-size: cover;
+    background-size: auto 50px;
+    background-color: black;
+    background-position-y: 0px;
+}
+
+
+body{
+    background: url("img/Fondo.jpeg") no-repeat left;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#nombre img {
+    height: auto;
+    width: 100%;
+    margin-bottom: 2vh;
+}
+
+#cuadro{
+    background-color: violet;
+    border: 2px solid black;
+    
+}
+
+.img1 {
+    height: 20%;
+}
+
+.img-fluid {
+    margin-bottom: 5vh;
+}
+
+.carousel-inner img{
+    width: 100%;
+    margin-bottom: 2vh;
+    height: 500px;
+}
+
+#info{
+    background-color: white;
+    height: auto;
+}
+#imginfo {
+    background: url("img/Info.jpeg") no-repeat;
+    background-size: cover;
+    background-size: 100% 100%;
+    height: 64vh; 
+    margin-bottom: 2vh;
+}
+
+.thead{
+    text-align: center;
+}
+
+footer{
+    background-color: grey;
+    width: 100%;
+}
